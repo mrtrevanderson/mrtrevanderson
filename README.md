@@ -21,4 +21,4 @@ I’m a data engineer building scalable data and AI solutions with Databricks.
 ## Connect
 - LinkedIn: [mrtrevanderson](https://www.linkedin.com/in/mrtrevanderson)
 - GitHub: [@mrtrevanderson](https://github.com/mrtrevanderson)
-- BildData: Bilddata.io
+- BildData: [Bilddata.io](https://bilddata.io)
